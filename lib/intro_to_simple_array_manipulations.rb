@@ -15,6 +15,6 @@ def pop_with_args(array)
   new_array
 end
 
-def using_unshift(array)
+def using_unshift
   array.unshift
 end
